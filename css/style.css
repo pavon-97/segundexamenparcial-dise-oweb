@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #282932;
+	width: 100%;
+	top:0;
+	border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+}
+footer{
+	background-color: #282932;
+	background-image: url(../img/footer-bg.png);
+	background-size: cover;
+	padding-top: 40px;
+	color: rgba(255, 255, 255, 0.55);
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p span{
+	color: #f7b614;
+}
+footer #copy{
+	padding: 20px 0;
+	margin-top: 5%;
+	color: #fff;
+	border-top: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+#hero h1{
+	margin-top: 80px;
+	color: #FFFFFF;
+	
+	
+}
+#hero h2{
+	color: #f7b614;
+}
+#hero{
+	background-color: #282832;
+}
+
+.btn-primary{
+	background-color: #f7b614;
+	
+}
+
+#populargoods h2{
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	color: #000000;
+	
+}
+#populargoods h6{
+	text-align: center;
+	color: #000000;
+}
+#populargoods h3{
+	color: #000000;
+	text-align: center;
+}
+#sitathome{
+	background-color: #282932;
+}
+
+#sitathome h1{
+	margin-top: 80px;
+	text-align: center;
+	color:#FFFFFF;
+}
+#sitathome h2{
+	color: #f7b614;
+	text-align: center;
+	
+}
+
+#ctasubscribe{
+	background-color: #F7B614;
+	
+	
+}
+
+#ctasubscribe h5{
+	color: #FFF2F2;
+	padding-top: 40px;
+	
+}
+#ctasubscribe h1{
+	color: #1D1819;
+	margin-bottom:40px;
+}
